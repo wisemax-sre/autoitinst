@@ -1,0 +1,1 @@
+FileCopy(@ScriptDir & "\network.lic","C:\Program Files\MATLAB\R2019a\licenses\", 8)

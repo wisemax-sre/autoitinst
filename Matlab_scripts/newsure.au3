@@ -1,0 +1,1 @@
+FileCopy(@ScriptDir & "\network.lic","F:\temp\", 8)
