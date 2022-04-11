@@ -10,6 +10,8 @@
  
  and forticlientVPN config.
  
+ also some old autoit scripts for Matlab install/uninstall.
+ 
  Script for unatended Download and installation of 4 apps at Windows
 -------------------------------------------------------------------------
 HOW TO USE : 
