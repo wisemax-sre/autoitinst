@@ -16,4 +16,7 @@
 -------------------------------------------------------------------------
 HOW TO USE : 
 working directory has to be same as local Downolads directory,
-for example : 
+for example : c:\Users\Max\Downloads
+c:\Users\{USERNAME}\Downloads
+Copy and run 4appsauto.exe
+while running admin priveleges needs to be provided (accept the prompt following run).
