@@ -10,8 +10,8 @@
  
  and forticlientVPN config.
  
- Script for unatended Download and installation of 4 apps
---------------------------------------------------------------
+ Script for unatended Download and installation of 4 apps at Windows
+-------------------------------------------------------------------------
 HOW TO USE : 
 working directory has to be same as local Downolads directory,
 for example : 
