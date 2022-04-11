@@ -9,6 +9,8 @@
  FortiClientVPNOnlineInstaller_7.0.exe
  
  and forticlientVPN config.
+ 
+ Script for unatended Download and installation of 4 apps
 --------------------------------------------------------------
 HOW TO USE : 
 working directory has to be same as local Downolads directory,
