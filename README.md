@@ -15,8 +15,14 @@
  Script for unatended Download and installation of 4 apps at Windows
 -------------------------------------------------------------------------
 HOW TO USE : 
+------------
+
 working directory has to be same as local Downolads directory,
+
 for example : c:\Users\Max\Downloads
+
 c:\Users\{USERNAME}\Downloads
+
 Copy and run 4appsauto.exe
+
 while running admin priveleges needs to be provided (accept the prompt following run).
