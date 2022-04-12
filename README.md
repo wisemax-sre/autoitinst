@@ -1,4 +1,4 @@
- Script for unatended Download and installation of 4 apps : 
+ Scripts for unatended Download and online installation of 4 apps windows : 
  
  Ninite 7Zip Chrome FileZilla Notepad Installer.exe
  
@@ -12,7 +12,7 @@
  
  also some old autoit scripts for unatended Matlab install/uninstall.
  
- Script for unatended Download and installation of 4 apps at Windows
+ Script for unatended offline installation of 4 apps at Windows.
 -------------------------------------------------------------------------
 HOW TO USE : 
 ------------
