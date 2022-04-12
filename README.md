@@ -23,6 +23,8 @@ for example : c:\Users\Max\Downloads
 
 c:\Users\{USERNAME}\Downloads
 
+open Edge browser and expand it to full screen
+
 Copy and run 4appsauto.exe
 
 while running admin priveleges needs to be provided (accept the prompt following run).
