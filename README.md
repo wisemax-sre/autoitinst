@@ -12,7 +12,7 @@
  
  also some old autoit scripts for unatended Matlab install/uninstall.
  
- Script for unatended offline installation of 4 apps at Windows.
+ Script for unatended offline or online installation of 4 apps at Windows.
 -------------------------------------------------------------------------
 HOW TO USE : 
 ------------
