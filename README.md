@@ -33,5 +33,5 @@ while running admin priveleges needs to be provided (accept the prompt following
 
 For offline(local) installation use setups.exe ,
 
-at this variant we need to copy all the apps setups to the same directory with a script.
+at this option we need to copy all the apps setups to the same directory with a script.
 
