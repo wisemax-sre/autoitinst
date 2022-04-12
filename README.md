@@ -17,6 +17,8 @@
 HOW TO USE : 
 ------------
 
+Online installer is 4appsauto.exe
+
 working directory has to be same as local Downolads directory,
 
 for example : c:\Users\Max\Downloads
@@ -28,3 +30,8 @@ open Edge browser and expand it to full screen
 Copy and run 4appsauto.exe
 
 while running admin priveleges needs to be provided (accept the prompt following run).
+
+For offline(local) installation use setups.exe ,
+
+at this variant we need to copy all the apps setups to the same directory with a script.
+
