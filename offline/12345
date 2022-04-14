@@ -1,0 +1,7 @@
+#RequireAdmin
+
+Run(@ScriptDir & 'Ninite 7Zip Chrome FileZilla Notepad Installer.exe')
+Sleep(300)
+MouseClick("left",883,287)
+Sleep(300)
+MouseClick("left",331,50)
