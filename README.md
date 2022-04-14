@@ -31,7 +31,7 @@ Copy and run 4appsauto.exe
 
 while running admin priveleges needs to be provided (accept the prompt following run).
 
-For offline(local) installation use setups.exe ,
+For offline(local) installation use autosetups.exe ,
 
 at this option we need to copy all the apps setups to the same directory with a script.
 
