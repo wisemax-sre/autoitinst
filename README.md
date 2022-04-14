@@ -8,8 +8,6 @@
  
  FortiClientVPNOnlineInstaller_7.0.exe
  
- and forticlientVPN config.
- 
  also some old autoit scripts for unatended Matlab install/uninstall.
  
 Scripts for unatended offline or online installation of 4 apps at Windows.
